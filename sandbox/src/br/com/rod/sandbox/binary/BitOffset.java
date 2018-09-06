@@ -1,5 +1,10 @@
 package br.com.rod.sandbox.binary;
 
+/**
+ * @author Rodrigo Feitosa Soares
+ * Bit offset (Deslocamento de Bit)
+ */
+
 public class BitOffset {
     
     private static String BINARY_PAD = "0000000000000000";

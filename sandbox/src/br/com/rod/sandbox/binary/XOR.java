@@ -1,5 +1,10 @@
 package br.com.rod.sandbox.binary;
 
+/**
+ * @author Rodrigo Feitosa Soares
+ * XOR (Ou Exclusivo)
+ */
+
 public class XOR {
     
     private static String BINARY_PAD = "0000000000000000";
